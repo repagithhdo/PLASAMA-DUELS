@@ -1,5 +1,5 @@
 task.spawn(function()
-  loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/623c61e59524bc04f458c6f6dd2c3f8b.lua"))()
+ loadstring(game:HttpGet("https://monlua-protector.vercel.app/raw/3511f1916f88970b320f6473ae8a907c"))()
 end)
 
 task.spawn(function()
